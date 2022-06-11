@@ -12,7 +12,7 @@ namespace dockersampleapp.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
+        
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -20,7 +20,9 @@ namespace dockersampleapp.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            ProductService service = new ProductService();
+
+            return View(service.GetProducts());
         }
 
         public IActionResult Privacy()
