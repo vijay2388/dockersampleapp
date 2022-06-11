@@ -35,8 +35,13 @@ D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\wwwroot\lib\jquery\dist\jq
 D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\wwwroot\lib\jquery\dist\jquery.min.js
 D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\wwwroot\lib\jquery\dist\jquery.min.map
 D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\wwwroot\lib\jquery\LICENSE.txt
+D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\buildoutput\web.config
 D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\appsettings.Development.json
 D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\appsettings.json
+D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\buildoutput\appsettings.Development.json
+D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\buildoutput\appsettings.json
+D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\buildoutput\dockersampleapp.deps.json
+D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\buildoutput\dockersampleapp.runtimeconfig.json
 D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\dockersampleapp.dll
 D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\dockersampleapp.deps.json
 D:\Edureka\AZ-204\Module3\dockersampleapp\buildoutput\dockersampleapp.runtimeconfig.json

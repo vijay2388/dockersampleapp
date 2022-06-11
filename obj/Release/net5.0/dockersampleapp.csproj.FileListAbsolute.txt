@@ -37,3 +37,8 @@ D:\Edureka\AZ-204\Module3\dockersampleapp\obj\Release\net5.0\dockersampleapp.pdb
 D:\Edureka\AZ-204\Module3\dockersampleapp\obj\Release\net5.0\dockersampleapp.genruntimeconfig.cache
 D:\Edureka\AZ-204\Module3\dockersampleapp\obj\Release\net5.0\ref\dockersampleapp.dll
 D:\Edureka\AZ-204\Module3\dockersampleapp\obj\Release\net5.0\dockersampleapp.csproj.CopyComplete
+D:\Edureka\AZ-204\Module3\dockersampleapp\bin\Release\net5.0\buildoutput\web.config
+D:\Edureka\AZ-204\Module3\dockersampleapp\bin\Release\net5.0\buildoutput\appsettings.Development.json
+D:\Edureka\AZ-204\Module3\dockersampleapp\bin\Release\net5.0\buildoutput\appsettings.json
+D:\Edureka\AZ-204\Module3\dockersampleapp\bin\Release\net5.0\buildoutput\dockersampleapp.deps.json
+D:\Edureka\AZ-204\Module3\dockersampleapp\bin\Release\net5.0\buildoutput\dockersampleapp.runtimeconfig.json
